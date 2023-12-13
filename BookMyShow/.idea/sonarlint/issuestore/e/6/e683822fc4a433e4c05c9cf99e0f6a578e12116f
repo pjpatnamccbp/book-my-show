@@ -1,0 +1,17 @@
+
+U
+java:S2589"8Remove this expression which always evaluates to "false"(üóÂ’8­×Ê®¶1
+Z
+java:S2589"8Remove this expression which always evaluates to "false"(ıÀ”‚ÿÿÿÿÿ8©×Ê®¶1
+U
+java:S2589"8Remove this expression which always evaluates to "false"(¡¶“ø8«×Ê®¶1
+U
+java:S2589!"8Remove this expression which always evaluates to "false"(§Äê8®×Ê®¶1
+œ
+java:S2159"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(ıÀ”‚ÿÿÿÿÿ8Ùõ¸®¶1
+—
+java:S2159"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(¡¶“ø8áõ¸®¶1
+—
+java:S2159"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(üóÂ’8ğõ¸®¶1
+—
+java:S2159!"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(§Äê8ÿõ¸®¶1
